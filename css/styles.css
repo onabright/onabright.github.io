@@ -28,10 +28,10 @@ h5{
 	text-align: center;
   background-size: auto;
   box-sizing: border-box;
-  background-position: 0px 0px, right 3em bottom 2em;
+  
 }
 
-@media(max-width: 600px){
+@media(max-width: 700px){
   #timer-app{
 
     width: 100%;
