@@ -24,7 +24,9 @@ h5{
 @media(max-width: 600px){
   #timer-app{
     width: 100%;
-    float: none;
+    /*float: none;*/
   }
+
+
 
 }
