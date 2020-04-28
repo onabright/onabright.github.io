@@ -19,6 +19,7 @@
 h5{
 	background-color: #0e2ca5;
 	border-radius: 8px;
+	text-overflow: 
 }
 
 @media(max-width: 600px){
@@ -27,8 +28,6 @@ h5{
     /*float: none;*/
   }
 
-#h5{
-  width: 100%;
-}
+
 
 }
